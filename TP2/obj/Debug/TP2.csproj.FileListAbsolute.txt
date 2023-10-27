@@ -1,0 +1,5 @@
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPs\TP2\TP2\bin\Debug\TP2.exe
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPs\TP2\TP2\bin\Debug\TP2.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPs\TP2\TP2\obj\Debug\TP2.exe
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPs\TP2\TP2\obj\Debug\TP2.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPs\TP2\TP2\obj\Debug\TP2.csprojResolveAssemblyReference.cache
